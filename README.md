@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TeaTrove
 
 Tea is a mature typed template language that when used with the TeaServlet offer a very high-performance template based servlet.
@@ -37,3 +38,6 @@ Continuous builds are hosted on http://travis-ci.org.
 
 Find us in the [teatrove-users](https://groups.google.com/forum/#!forum/teatrove-users) Google Group or on [irc.freenode.org#teatrove](irc:irc.freenode.org:6667/teatrove).
 
+=======
+# maxo-project
+>>>>>>> bf3d2e44482d355adb0b8834fd165866d6f62247
